@@ -15,3 +15,12 @@ codex_10th/Space_Marines_10th.pdf filter=lfs diff=lfs merge=lfs -text
 codex_10th/Tau_empire_10th.pdf filter=lfs diff=lfs merge=lfs -text
 codex_10th/Tyranids_10th.pdf filter=lfs diff=lfs merge=lfs -text
 codex_10th/World_Eaters_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Adepta_Sororitas_10th_2.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Adepta_Sororitas_10th_3.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Genestealer_Cults_10th_2.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Imperial_Agents_10th_2.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Necrons_10th_2.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Space_Marines_10th_2.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Space_Marines-10th_3.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Tau_Empire_10th_2.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Tyranid_10th_2.pdf filter=lfs diff=lfs merge=lfs -text

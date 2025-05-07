@@ -3,6 +3,8 @@ Also this is a lfs test. Other [official free downloads](https://www.warhammer-c
 ## codexes:
 1. Adepta_Sororitas
  - [scan](codex_10th/Adepta_Sororitas_10th.pdf)
+ - [photo](codex_10th/Adepta_Sororitas_10th_2.pdf)
+ - [scan OCR](codex_10th/Adepta_Sororitas_10th_3.pdf)
 2. Adeptus_Custodes
   - [scan](codex_10th/Adeptus_Custodes_10th.pdf)
 3. Adeptus_Mechanicus
@@ -23,15 +25,21 @@ Also this is a lfs test. Other [official free downloads](https://www.warhammer-c
   - [scan](codex_10th/Genestealer_cults_10th.pdf)
 11. Imperial_Agents
   - [scan](codex_10th/Imperial_Agents_10th.pdf)
+  - [scan](codex_10th/Imperial_Agents_10th_2.pdf)
 12. Necrons
   - [scan](codex_10th/Necrons_10th.pdf)
+  - [scan OCR](codex_10th/Necrons_10th_2.pdf)
 13. Orks
   - [scan](codex_10th/Orks_10th.pdf)
 14. Space_Marines
   - [scan OCR](codex_10th/Space_Marines_10th.pdf)
+  - [scan OCR slim](codex_10th/Space_Marines_10th_2.pdf)
+  - [scan OCR](codex_10th/Space_Marines-10th_3.pdf)
 15. Tau_empire
   - [scan](codex_10th/Tau_empire_10th.pdf)
+  - [scan OCR](codex_10th/Tau_Empire_10th_2.pdf)
 16. Tyranids
-  - [scan](codex_10th/Tyranids_10th.pdf)
+  - [scan OCR](codex_10th/Tyranids_10th.pdf)
+  - [scan](codex_10th/Tyranid_10th_2.pdf)
 17. World_Eaters
   - [photo](codex_10th/World_Eaters_10th.pdf)
