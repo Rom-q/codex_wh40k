@@ -1,0 +1,17 @@
+codex_10th/Adepta_Sororitas_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Adeptus_Custodes_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Adeptus_Mechanicus_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Aeldari_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Astra_Militarum_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Blood_Angels_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Chaos_Space_Marines_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Dark_Angels_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Death_Guard_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Genestealer_cults_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Imperial_Agents_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Necrons_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Orks_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Space_Marines_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Tau_empire_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/Tyranids_10th.pdf filter=lfs diff=lfs merge=lfs -text
+codex_10th/World_Eaters_10th.pdf filter=lfs diff=lfs merge=lfs -text
