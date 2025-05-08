@@ -1,6 +1,6 @@
 ## codexes:
 1. Adepta_Sororitas
- - [scan](\codex_10th/Adepta_Sororitas_10th.pdf)
+ - [scan](codex_10th/Adepta_Sororitas_10th.pdf)
  - [photo](codex_10th/Adepta_Sororitas_10th_2.pdf)
  - [scan OCR](codex_10th/Adepta_Sororitas_10th_3.pdf)
 2. Adeptus_Custodes
