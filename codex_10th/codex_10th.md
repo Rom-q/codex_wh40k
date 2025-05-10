@@ -11,8 +11,8 @@
 3. Dark Angels(suplement)
   - [scan OCR](Dark_Angels_10th.pdf)
 4. Space Wolves(suplement)
-
-5. Adepta Sorotias
+  - 
+5. Adepta Sororitas
   - [scan](Adepta_Sororitas_10th.pdf)
   - [photo](Adepta_Sororitas_10th_2.pdf)
   - [scan OCR](Adepta_Sororitas_10th_3.pdf)
@@ -59,11 +59,11 @@
   - [scan OCR](Tyranids_10th.pdf)
   - [scan](Tyranid_10th_2.pdf)
 
-## Other
+# Other
 
 1. Boarding Actions
 - 
-### Crusade
+## Crusade
 1. Tyrannic War 
 - [photo](Tyrannic_War)
 2. Pariah Nexus
