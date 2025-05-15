@@ -4,4 +4,3 @@ The files are too big and therefore preview is not available
 There are also other/alternative codexes in the files   
 [codex_10ed](codex_10th/codex_10th.md)    
 [codex_9ed](codex_9th/codex_9th.md)     
-[codex_8ed](codex_8th/codex_8th.md)     

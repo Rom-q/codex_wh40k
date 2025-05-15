@@ -17,7 +17,7 @@
 - [Emperors Children](Chaos/Emperors_Children_10th_scan.pdf)
 - [World Eaters](Chaos/World_Eaters_10th_photo.pdf)
 - [Death Guard](Chaos/Death_Guard_10th_photo.pdf)
-- Thousand Sons
+- [Thousand Sons](Chaos/Thousand_Sons_10th_photo.pdf)
 ## Xenos
 - [Aeldari](Xenos/Aeldari_10th_scan.pdf)
 - [Genestealer Cults](Xenos/Genestealer_cults_10th_scan.pdf)
