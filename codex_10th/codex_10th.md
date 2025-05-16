@@ -2,9 +2,9 @@
 ### [Core Rules](Rulebook_10e.pdf)
 ## Imperium
 - [Space Marines](Imperium/Space_Marines_10th_scan_OCR.pdf)
-- [Blood Angels(suplement)](Imperium/Blood_Angels_10th_scan.pdf)
-- [Dark Angels(suplement)](Imperium/Dark_Angels_10th_scan_OCR.pdf)
-- Space Wolves(suplement)
+- [Blood Angels(supplement)](Imperium/Blood_Angels_10th_scan.pdf)
+- [Dark Angels(supplement)](Imperium/Dark_Angels_10th_scan_OCR.pdf)
+- Space Wolves(supplement)
 - [Adepta Sororitas](Imperium/Adepta_Sororitas_10th_scan.pdf)
 - [Adeptus Custodes](Imperium/Adeptus_Custodes_10th_scan.pdf)
 - [Adeptus Mechanicus](Imperium/Adeptus_Mechanicus_10th_scan_OCR.pdf) 
