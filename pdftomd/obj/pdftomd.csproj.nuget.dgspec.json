@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\da\\final_wh_codex\\codex_wh40k\\pdftomd\\pdftomd.csproj": {}
+    "E:\\da\\final_wh_codex\\codex_wh40k\\pdftomd\\pdftomd.csproj": {}
   },
   "projects": {
-    "e:\\da\\final_wh_codex\\codex_wh40k\\pdftomd\\pdftomd.csproj": {
+    "E:\\da\\final_wh_codex\\codex_wh40k\\pdftomd\\pdftomd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\da\\final_wh_codex\\codex_wh40k\\pdftomd\\pdftomd.csproj",
+        "projectUniqueName": "E:\\da\\final_wh_codex\\codex_wh40k\\pdftomd\\pdftomd.csproj",
         "projectName": "pdftomd",
-        "projectPath": "e:\\da\\final_wh_codex\\codex_wh40k\\pdftomd\\pdftomd.csproj",
+        "projectPath": "E:\\da\\final_wh_codex\\codex_wh40k\\pdftomd\\pdftomd.csproj",
         "packagesPath": "C:\\Users\\golma\\.nuget\\packages\\",
-        "outputPath": "e:\\da\\final_wh_codex\\codex_wh40k\\pdftomd\\obj\\",
+        "outputPath": "E:\\da\\final_wh_codex\\codex_wh40k\\pdftomd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
