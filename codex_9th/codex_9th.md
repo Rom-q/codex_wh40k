@@ -31,7 +31,7 @@
 8. [Tyranids](Xenos/Tyranids_9e_scan.pdf)
 # Other
 ## Chapter Approved
-1. Munitorum Field Manual 2020
+1. [Munitorum Field Manual 2020](Chapter_Approved\Monitorum_Field_Manual_2020_9e.pdf)
 2. [Grand Tournament 2020](Chapter_approved/Grand_Tournament_2020_9e.pdf)
 3. Tactical Deployment
 4. [Munitorum Field Manual 2021](Chapter_Approved/Munitorum_field_Manual_2021_9e_mk2.pdf)
