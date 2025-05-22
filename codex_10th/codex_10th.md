@@ -4,7 +4,7 @@
 - [Space Marines](Imperium/Space_Marines_10th_scan_OCR.pdf)
 - [Blood Angels(supplement)](Imperium/Blood_Angels_10th_scan.pdf)
 - [Dark Angels(supplement)](Imperium/Dark_Angels_10th_scan_OCR.pdf)
-- [Space Wolves(supplement)](Imperium\Space_Wolves_10th_photo.pdf)
+- [Space Wolves(supplement)](Imperium/Space_Wolves_10th_photo.pdf)
 - [Adepta Sororitas](Imperium/Adepta_Sororitas_10th_scan.pdf)
 - [Adeptus Custodes](Imperium/Adeptus_Custodes_10th_scan.pdf)
 - [Adeptus Mechanicus](Imperium/Adeptus_Mechanicus_10th_scan_OCR.pdf) 
